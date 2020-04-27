@@ -1,0 +1,1 @@
+function open_googlemaps(o){window.open(o,"_blank").focus()}
